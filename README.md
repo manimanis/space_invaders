@@ -5,6 +5,8 @@
 This is a pygame replicated by one of my students **Mohamed Amine Msallem**, 2TI class in the scholar year 2020/2021,
 as a reinforcement exercise to the **Python** language syntax. 
 
+This is a link to the game try in Youtube [Vidéo](https://youtu.be/T9ULT7gQcJY)
+
 ## How to test
 
 Make sure to pip install the pygame library into your pc first.
